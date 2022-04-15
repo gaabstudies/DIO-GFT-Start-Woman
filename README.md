@@ -30,14 +30,14 @@ Módulo VI - Java Avançado -
 
 <br>
 
-## 📚 Mais informações da Formação:
+## 📚 Mais informações sobre o Bootcamp:
 
 Busque na plataforma de ensino:
 [Digital Innovation One](https://web.dio.me/home) 
 
 
 
-**Muito obrigada pela visita, caso tenha dicas e sugestões construtivas para meu crescimento estou a disposição. Entre em contato!** 
+**Muito obrigada pela visita, sugestões construtivas para meu crescimento estou a disposição !!** 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielaFabiola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielafabiola/)](https://www.linkedin.com/in/gabrielafabiola/) 
